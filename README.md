@@ -24,3 +24,14 @@ Contains Practice codes for Data Structures and Algorithms and its Time and Spac
 | Searching a given value       | O(mn)            | O(1)              |
 | Deleting a given value        | O(1)             | O(1)              |
 
+## ArrayList
+
+| Operation                                          | Time Complexity  | Space Complexity  |
+| ---------------------------------------------------|:----------------:| -----------------:|
+| Creating an ArrayList                              | O(1)             | O(1) - O(n)       |
+| Inserting a Value in an Array - add(element)       | O(1)             | O(n) - O(1)       |
+| Inserting a Value in an Array - add(index,element) | O(n)             | O(n) - O(1)       |
+| Traversing ArrayList                               | O(n)             | O(1)              |
+| Accessing an element in ArrayList                  | O(1)             | O(1)              |
+| Searching an element in ArrayList                  | O(n)             | O(1)              |
+| Deleting an element in ArrayList                   | O(n)             | O(1)              |
