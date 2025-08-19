@@ -3,7 +3,7 @@ package SimpleArrayProject;
 import java.util.Scanner;
 
 //Find the Days Above Average Temperature
-public class Main {
+public class AverageTemperature {
 
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
