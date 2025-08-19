@@ -2,6 +2,16 @@
 
 Contains Practice codes for Data Structures and Algorithms and its Time and Space Complexities.
 
+## Five Rules to Calculate Time Complexity
+
+| Operation                                 | Time Complexity  |
+| ------------------------------------------|:----------------:|
+| Any Assignments / If Statements           | O(1)             |
+| Single For Loop                           | O(n)             |
+| Nested For Loop                           | O(n^2)           |
+| For Loop with Paremeter is divided by 2   | O(log n)         |
+| When dealing with multiple statements     | Add them up      |
+
 ## Single Dimesional Array
 
 | Operation                     | Time Complexity  | Space Complexity  |
