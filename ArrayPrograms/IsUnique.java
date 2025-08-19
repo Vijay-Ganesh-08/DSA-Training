@@ -1,4 +1,4 @@
-package ArrayQuestions;
+package ArrayPrograms;
 
 /*
  * Write a program to check if an array is unique or not.

@@ -1,4 +1,4 @@
-package ArrayQuestions;
+package ArrayPrograms;
 
 /*
  * Your are given two integer arrays. Write a program to check if they are permutation of each other.

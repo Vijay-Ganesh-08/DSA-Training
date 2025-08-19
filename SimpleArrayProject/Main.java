@@ -1,4 +1,4 @@
-package ArrayProject;
+package SimpleArrayProject;
 
 import java.util.Scanner;
 

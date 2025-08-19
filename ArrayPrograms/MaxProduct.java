@@ -1,4 +1,4 @@
-package ArrayQuestions;
+package ArrayPrograms;
 
 /*
  * How to find maximum product of two integers in the array where all elements are positive.

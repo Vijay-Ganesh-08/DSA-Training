@@ -1,4 +1,4 @@
-package ArrayQuestions;
+package ArrayPrograms;
 
 
 /*

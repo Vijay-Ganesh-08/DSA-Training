@@ -1,4 +1,4 @@
-package ArrayQuestions;
+package ArrayPrograms;
 
 /*
  * Given an array, write a function to get first, second best scores from the array and return it in new array.
